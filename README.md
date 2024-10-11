@@ -1,12 +1,11 @@
 ## Olá, sou Carlos Eduardo!
+- 👨‍💻 Sou estudante de Engenharia da Computação, com foco em desenvolvimento de software, especialmente em back-end.
+- 👀 Tenho interesse em Desenvolvimento de Software, Automação e Inteligência Artificial.
+- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em tecnologias como Python, Java, C, C++, .NET, SQL, AWS e Google Cloud.
+- 💼 Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e realizo oficinas para promover o ensino de TI para alunos de escolas públicas.
+- 💞️ Procuro colaborar em projetos open-source, inovação tecnológica e iniciativas voltadas à inclusão digital.
+- ⚡ Curiosidade: Desenvolvi um sensor de incêndio usando Arduino e programação em C, além de ter ministrado oficinas de inteligência artificial e Python.
 
-
-👨‍💻 Sou estudante de Engenharia da Computação, com foco em desenvolvimento de software, especialmente em back-end.
-👀 Tenho interesse em Desenvolvimento de Software, Automação e Inteligência Artificial.
-🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em tecnologias como Python, Java, C, C++, .NET, SQL, AWS e Google Cloud.
-💼 Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e realizo oficinas para promover o ensino de TI para alunos de escolas públicas.
-💞️ Procuro colaborar em projetos open-source, inovação tecnológica e iniciativas voltadas à inclusão digital.
-⚡ Curiosidade: Desenvolvi um sensor de incêndio usando Arduino e programação em C, além de ter ministrado oficinas de inteligência artificial e Python.
 <div>
   <a href="https://github.com/CarlosssEduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosssEduardo&theme=ocean_dark&show_icons=true"</>
