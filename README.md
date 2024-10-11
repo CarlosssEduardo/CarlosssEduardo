@@ -1,11 +1,11 @@
 ## Olá, sou Carlos Eduardo!
-# ![snake gif](https://github.com/CarlosssEduardo/CarlosssEduardo/blob/output/github-contribution-grid-snake.gif)
+
+
 👨‍💻 Sou estudante de Engenharia da Computação, com foco em desenvolvimento de software, especialmente em back-end.
 👀 Tenho interesse em Desenvolvimento de Software, Automação e Inteligência Artificial.
 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em tecnologias como Python, Java, C, C++, .NET, SQL, AWS e Google Cloud.
 💼 Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e realizo oficinas para promover o ensino de TI para alunos de escolas públicas.
 💞️ Procuro colaborar em projetos open-source, inovação tecnológica e iniciativas voltadas à inclusão digital.
-📫 Como entrar em contato comigo: carloseduardof191@gmail.com ou via LinkedIn: www.linkedin.com/in/carlos-eduardo-coelho-240b32330
 ⚡ Curiosidade: Desenvolvi um sensor de incêndio usando Arduino e programação em C, além de ter ministrado oficinas de inteligência artificial e Python.
 <div>
   <a href="https://github.com/CarlosssEduardo">
@@ -33,5 +33,8 @@
   <a href="https://discord.gg/pacoca1793" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "carloseduardof191@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/carlos-eduardo-coelho-240b32330" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  ![snake gif](https://github.com/CarlosssEduardo/CarlosssEduardo/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
