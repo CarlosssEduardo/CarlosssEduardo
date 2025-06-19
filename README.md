@@ -1,5 +1,5 @@
 ## Olá, sou Carlos Eduardo!
-- 👨‍💻 Sou estudante de Engenharia da Computação, com foco em desenvolvimento de software, especialmente em back-end.
+- 👨‍💻 Sou estudante de Engenharia da Computação, com foco em desenvolviment de software e Engenharia de dados, especialmente em back-end.
 - 👀 Tenho interesse em Desenvolvimento de Software, Automação e Inteligência Artificial.
 - 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em tecnologias como Python, Java, C, C++, .NET, SQL, AWS e Google Cloud.
 - 💼 Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e realizo oficinas para promover o ensino de TI para alunos de escolas públicas.
