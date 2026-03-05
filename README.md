@@ -2,7 +2,7 @@
 
 Sou um **Desenvolvedor Full Stack** e estudante de **Engenharia da Computação** (Estácio - 2026), apaixonado por transformar regras de negócio complexas em software escalável. 
 
-- 💼 **Experiência de Impacto:** Na Ambev, atuei como Intraempreendedor e Desenvolvedor Full Stack, criando do zero o **RN Planner** — um sistema Web Mobile (PWA) hospedado na nuvem para digitalizar a gestão de metas, rastrear KPIs e otimizar a remuneração variável da equipe de vendas.
+- 💼 **Experiência de Impacto:** Na Ambev, atuei como Desenvolvedor Full Stack, criando do zero o **RN Planner** — um sistema Web Mobile (PWA) hospedado na nuvem para digitalizar a gestão de metas, rastrear KPIs e otimizar a remuneração variável da equipe de vendas.
 - 💻 **Minha Stack Principal:** Desenvolvimento de APIs RESTful com **Java, Spring Boot e Spring Data JPA**, interfaces responsivas com **React.js** e infraestrutura em nuvem com **Microsoft Azure**. Banco de dados com **PostgreSQL**.
 - 📚 **Aprendizado Contínuo:** Evoluo minha base técnica diariamente através de projetos práticos e imersões em Bootcamps intensivos na plataforma **DIO**.
 - 🤝 **Comunidade & Inclusão:** Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e ministro oficinas (Python e IA) para promover o ensino de TI em escolas públicas.
