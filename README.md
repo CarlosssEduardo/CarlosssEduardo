@@ -27,20 +27,18 @@ Sou um **Desenvolvedor Full Stack** e estudante de **Engenharia da Computação*
   <img align="center" alt="Carlos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
----
-
 ## 📊 Meus Status GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosssEduardo&theme=ocean_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Status Gerais" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosssEduardo&langs_count=10&layout=compact&theme=ocean_dark" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosssEduardo&langs_count=8&layout=compact&theme=ocean_dark" alt="Linguagens Mais Usadas" />
 </div>
+
+<br>
 
 <div align="center">
-  ![snake gif](https://github.com/CarlosssEduardo/CarlosssEduardo/blob/output/github-contribution-grid-snake.svg)
+  <img alt="Snake Animation" src="https://github.com/CarlosssEduardo/CarlosssEduardo/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </div>
-
----
 
 ### 📫 Como me encontrar
 
