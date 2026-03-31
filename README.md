@@ -1,6 +1,6 @@
 ## Olá, sou Carlos Eduardo! 🚀
 
-Sou um **Desenvolvedor Full Stack** e estudante de **Engenharia da Computação** (Estácio - 2026), apaixonado por transformar regras de negócio complexas em software escalável. 
+Sou um **Desenvolvedor Java JR** e estudante de **Engenharia da Computação** (Estácio - 2026), apaixonado por transformar regras de negócio complexas em software escalável. 
 
 - 💼 **Experiência de Impacto:** Desenvolvedor Full Stack, criando do zero o **RN Planner** — um sistema Web Mobile (PWA) hospedado na nuvem para digitalizar a gestão de metas, rastrear KPIs e otimizar a remuneração variável da equipe de vendas.
 - 💻 **Minha Stack Principal:** Desenvolvimento de APIs RESTful com **Java, Spring Boot e Spring Data JPA**, interfaces responsivas com **React.js** e infraestrutura em nuvem com **Microsoft Azure**. Banco de dados com **PostgreSQL**.
