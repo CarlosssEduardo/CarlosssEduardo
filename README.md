@@ -1,12 +1,103 @@
-## Olá, sou Carlos Eduardo! 🚀
+# 👋 Olá, eu sou Carlos Eduardo Ferreira Coelho
 
-Sou um **Desenvolvedor Java JR** e estudante de **Engenharia da Computação** (Estácio - 2026), apaixonado por transformar regras de negócio complexas em software escalável. 
+💻 Desenvolvedor Back-End com foco em Java, Spring Boot, APIs REST e banco de dados relacionais.
+🎓 Graduando em Engenharia da Computação pela Universidade Estácio de Sá (conclusão prevista para maio de 2026).
+🚀 Experiência prática no desenvolvimento de soluções aplicadas a problemas reais de negócio.
 
-- 💼 **Experiência de Impacto:** Desenvolvedor Full Stack, criando do zero o **RN Planner** — um sistema Web Mobile (PWA) hospedado na nuvem para digitalizar a gestão de metas, rastrear KPIs e otimizar a remuneração variável da equipe de vendas.
-- 💻 **Minha Stack Principal:** Desenvolvimento de APIs RESTful com **Java, Spring Boot e Spring Data JPA**, interfaces responsivas com **React.js** e infraestrutura em nuvem com **Microsoft Azure**. Banco de dados com **PostgreSQL**.
-- 📚 **Aprendizado Contínuo:** Evoluo minha base técnica diariamente através de projetos práticos e imersões em Bootcamps intensivos na plataforma **DIO**.
-- 🤝 **Comunidade & Inclusão:** Faço parte do Laboratório de Transformação Digital (LTD) e do Núcleo de Inclusão Digital (NID), onde desenvolvo projetos e ministro oficinas (Python e IA) para promover o ensino de TI em escolas públicas.
-- ⚡ **Curiosidade (IoT):** Além de software web, desenvolvi um sistema de hardware/software para detecção de incêndio utilizando microcontrolador (ESP32/Arduino), programação em C e integração de sensores.
+---
+
+## 🚀 Tecnologias Principais
+
+### Back-End
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* Spring Web
+* Spring Security
+* Hibernate
+* APIs RESTful
+* Swagger / OpenAPI
+
+### Banco de Dados
+
+* PostgreSQL
+* SQL Server
+* MySQL
+* PL/SQL
+
+### Cloud Computing
+
+* Microsoft Azure
+* AWS
+* Google Cloud
+
+### Ferramentas
+
+* Git
+* GitHub
+* GitLab
+* Postman
+* IntelliJ IDEA
+* Visual Studio Code
+
+---
+
+## 💼 Experiência Prática
+
+Atualmente atuo na Ambev, onde desenvolvi o **RN Planner**, uma aplicação Web Mobile (PWA) aplicada em ambiente corporativo real para digitalizar processos operacionais, controle de tasks, ofertas, missões e pontuação de remuneração variável da equipe comercial.
+
+### Tecnologias aplicadas:
+
+* Java
+* Spring Boot
+* React.js
+* PostgreSQL
+* Microsoft Azure
+
+---
+
+## 📌 Projetos em Destaque
+
+### Banco Digital
+
+Sistema bancário desenvolvido em Java com foco em programação orientada a objetos, simulando operações financeiras como:
+
+* criação de contas
+* depósitos
+* saques
+* transferências
+* pagamento de boletos
+
+### API REST de Gestão de Dados
+
+Projeto back-end com:
+
+* autenticação
+* persistência em banco relacional
+* documentação Swagger
+
+### Sistema de Detecção de Incêndio com ESP32
+
+Projeto IoT com sensores:
+
+* DHT11
+* MQ2
+* acionamento automatizado de relés
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura Back-End Java
+* Spring Security avançado
+* APIs REST escaláveis
+* Boas práticas de mercado para desenvolvimento Java
+---
+
+## 🎯 Objetivo
+
+Busco oportunidade como Desenvolvedor Java Back-End para aplicar conhecimento técnico, evoluir em projetos reais e contribuir com soluções de alto impacto.
 
 ---
 
